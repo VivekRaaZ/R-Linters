@@ -41,8 +41,8 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://index.HTML/">HTML</a></li>
-    <li><a href="https://Style.CSS/">CSS</a></li>
+    <li><a href="https://www.learn-html.org">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
