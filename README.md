@@ -73,14 +73,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-1.Github account 
-2.Code Editor 
-3.Web Browser
+- **1. Github account**
+- **2. Code Editor** 
+- **3. Web Browser**
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder:-
 
+Run this commands:
+```sh
+cd my-folder
+git clone git@github.com:VivekRaaZ/R-Linters.git
+```
+
+### Install
+
+To Install this project, run the following command: Open the code in Visual Studio Code and run the following commands :
+
+```sh
+  cd my-project
+  npm install
+```
 ### Usage
 
 To run the project, execute the following file: index.html
@@ -89,10 +103,13 @@ open index.html using live server extenshion.
 
 ### Run tests
 
-To run tests, run the following command:
-To run tests, run the following command: Open the code in Visual Studio Code and run the following commands :
+To run tests, run the following command: 
 
-npx hint . npx stylelint "**/*.{css,scss}"
+```sh
+npx hint .
+npx stylelint "**/*.{css,scss}"
+```
+
 
 ### Deployment
 
@@ -138,8 +155,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License <a name="license"></a>
 
-This project is copyright of [Vivek Raj]
+This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
