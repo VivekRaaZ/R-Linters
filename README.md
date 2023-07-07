@@ -24,7 +24,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -154,8 +153,8 @@ Contributions, issues, and feature requests are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+Give a ⭐️ if you like this project!
 
-This project is [MIT](./LICENSE) licensed.
-
-
+📝 License
+This project is [MIT](MIT.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
